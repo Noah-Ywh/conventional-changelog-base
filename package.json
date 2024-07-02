@@ -1,7 +1,7 @@
 {
   "name": "@noahyu/conventional-changelog-base",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "noahyu preset for conventional-changelog.",
   "main": "dist/index.js",
   "module": "dist/index.js",
