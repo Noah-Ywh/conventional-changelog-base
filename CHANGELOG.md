@@ -1,10 +1,21 @@
+# [1.1.0](https://github.com/Noah-Ywh/conventional-changelog-base/compare/v1.0.1...v1.1.0) (2024-10-25)
+
+### ✨Features
+
+- 当提交为空时不创建 log 记录 ([1a2135c](https://github.com/Noah-Ywh/conventional-changelog-base/commit/1a2135c217c4552e052ee2ac21867b09dd075f8e))
+
+### 🛠️Chore
+
+- 指定 pnpm 版本 ([eb48db7](https://github.com/Noah-Ywh/conventional-changelog-base/commit/eb48db7ed643c42966236152dac06d8a98d40383))
+- 添加 gitpod 配置文件 ([1797ceb](https://github.com/Noah-Ywh/conventional-changelog-base/commit/1797ceb0018965ff50f57717c01d81c7a0594b92))
+
 ## [1.0.1](https://github.com/Noah-Ywh/conventional-changelog-base/compare/v1.0.0...v1.0.1) (2024-07-02)
 
 ### 🐛Bug Fixes
 
 - 模版调整合适的空行 ([2f18b59](https://github.com/Noah-Ywh/conventional-changelog-base/commit/2f18b59e20e092188477a8890ab6c754425a295f))
 
-# [1.0.0](https://github.com/Noah-Ywh/conventional-changelog-base/compare/952e485018d8b42225551583309bc11d7af0acc2...v1.0.0) (2024-7-2)
+# [1.0.0](https://github.com/Noah-Ywh/conventional-changelog-base/compare/952e485018d8b42225551583309bc11d7af0acc2...v1.0.0) (2024-07-02)
 
 ### ✨Features
 
