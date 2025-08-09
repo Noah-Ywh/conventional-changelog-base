@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Noah-Ywh/conventional-changelog-base/compare/v1.1.0...v1.1.1) (2025-08-09)
+
+### 🛠️Chore
+
+- update configs ([acf4058](https://github.com/Noah-Ywh/conventional-changelog-base/commit/acf40586fb8d6b72701bf64b90a2a00efa81417b))
+- update deps ([820fe0d](https://github.com/Noah-Ywh/conventional-changelog-base/commit/820fe0d92ead3f5dca9f1c2c6056d15f9b8165c8))
+
 # [1.1.0](https://github.com/Noah-Ywh/conventional-changelog-base/compare/v1.0.1...v1.1.0) (2024-10-25)
 
 ### ✨Features
